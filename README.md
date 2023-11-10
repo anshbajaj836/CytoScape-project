@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cytoscape-expand-collapse
 ================================================================================
 
@@ -255,3 +256,6 @@ This project is set up to automatically be published to npm and bower.  To publi
 ## Alumni
 
   * [Ilkin Safarli](https://github.com/kinimesi), [Alper Karacelik](https://github.com/alperkaracelik), [Selim Firat Yilmaz](https://github.com/mrsfy)
+=======
+# CytoScape-project
+>>>>>>> origin/main
